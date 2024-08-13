@@ -1,0 +1,6 @@
+.n-list__header {
+  position: sticky;
+  top: 0;
+  background: white;
+  z-index: 1;
+}
